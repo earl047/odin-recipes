@@ -10,3 +10,17 @@ p {
 h1 {
     color: #f0efef;
 }
+
+h2 {
+    color: #f0efef;
+}
+
+ul {
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
