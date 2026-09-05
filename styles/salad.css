@@ -1,9 +1,10 @@
 * {
-    background-color: rgb(185, 153, 214);
+    background-color: #000039;
 }
 
 p {
     font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
 }
 
 h1 {
